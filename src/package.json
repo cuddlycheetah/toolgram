@@ -1,0 +1,23 @@
+{
+  "name": "toolgram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cuddlycheetah",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuddlycheetah/toolgram.git"
+  },
+  "keywords": [
+    "telegram",
+    "airgram"
+  ],
+  "bugs": {
+    "url": "https://github.com/cuddlycheetah/toolgram/issues"
+  },
+  "homepage": "https://github.com/cuddlycheetah/toolgram#readme",
+  "description": ""
+}
